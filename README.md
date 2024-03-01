@@ -22,7 +22,7 @@ You can also do commands like *.proclist* to see the running processes on your v
 
 **First:** Start off by creating a discord bot if you dont have one already. And if you dont have python installed you should totally do that..
 
-- [Discord Docs](https://discord.com/developers/docs/intro)
+- [Discord Docs AKA Where you create a bot](https://discord.com/developers/docs/intro)
 
 **Second:** Edit the token value *grabber.py* file to your discord bots token. *(you can also adjust the prefix too!)*
 
