@@ -26,5 +26,7 @@ You can also do commands like *.proclist* to see the running processes on your v
 
 **Second:** Edit the token value *grabber.py* file to your discord bots token. *(you can also adjust the prefix too!)*
 
+- Should look something like this at the top: token = "YOUR_BOT_TOKEN_HERE", prefix = "."
+
 **Last Step:** Run the *setup.bat* file! That bacth file will insall all nessesary python packages and build your grabber into a exe for you!
 
