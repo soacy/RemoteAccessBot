@@ -21,5 +21,5 @@ This little guide will help..
 
 First: start off by creating a discord bot if you dont have one already. 
 
-[Discord Docs]https://discord.com/developers/docs/intro
+[Discord Docs](https://discord.com/developers/docs/intro)
 
