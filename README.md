@@ -17,6 +17,8 @@
 What this rat / grabber does is, once ran it will take your victims system information, network information, screen shot of their desktop.
 You can also do commands like *.proclist* to see the running processes on your victims pc!
 
+**RAT Meaning:** Remote-Access-Trojan
+
 ## Don't know what your doing?
 
 **Are you stuck / lost? This little guide will help..**
