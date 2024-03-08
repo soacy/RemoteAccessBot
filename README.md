@@ -11,6 +11,7 @@
 **Please make sure you edit your "token" and "prefix" in the *grabber.py* file.**
 
 **NOTE:** THIS RAT / GRABBER IS ALL CONTROLLED IN DISCORD SO YOU WILL NEED A DISCORD BOT FOR THE INFORMATION TO SEND TO YOU!
+
 **ADDITIONAL NOTE:** YOU WILL NEED PYTHON v3.12.1 FOR THIS!! (pyscreeze relys on a specific version of pillow) (Pillow version i'm using: 10.2.0)
 
 What this rat / grabber does is, once ran it will take your victims system information, network information, screen shot of their desktop.
